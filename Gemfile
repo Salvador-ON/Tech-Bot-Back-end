@@ -30,6 +30,7 @@ gem 'cors', '~> 1.0', '>= 1.0.1'
 gem 'bootstrap', '~> 4.5'
 gem 'jquery-rails'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
+gem 'rails_admin'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
